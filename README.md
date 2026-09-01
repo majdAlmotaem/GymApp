@@ -4,6 +4,11 @@ Ein modernes, dynamisches **Identity & Access Management (IAM)** und **Datenschu
 
 Entwickelt als **Fachinformatiker-Portfolioprojekt**, demonstriert diese Anwendung praxiserprobte Konzepte aus den Bereichen **Security by Design, rollenbasierte Zugriffskontrolle (RBAC), Datenschutz-Anonymisierung und Audit-Logging**.
 
+
+<p align="center">
+  <img src="./GymApp-ezgif.gif" alt="GymSec IAM & Privacy Dashboard Demo" width="100%" />
+</p>
+
 ---
 
 ## 🌟 Kern-Features
